@@ -1,8 +1,11 @@
-PrettyXML.codaplugin
+TextUtils.codaplugin
 =====================
 
-A Coda plug-in to prettify string in current document.
+Text utility plugin for Coda 2
 
-    $ git://github.com/ngs/PrettyXML.codaplugin.git ~/Library/Application\ Support/Coda\ 2/Plug-ins/PrettyXML.codaplugin
+ * Sort lines
+
+
+    $ git://github.com/ngs/TextUtils.codaplugin.git ~/Library/Application\ Support/Coda\ 2/Plug-ins/TextUtils.codaplugin
 
 
