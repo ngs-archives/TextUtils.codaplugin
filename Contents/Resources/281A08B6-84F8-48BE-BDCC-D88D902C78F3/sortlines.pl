@@ -3,5 +3,5 @@
 use strict;
 use warnings;
 
-print join("\n", sort(<STDIN>))
+print join('', sort(<STDIN>))
 
